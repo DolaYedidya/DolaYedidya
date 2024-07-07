@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=1200&lines=MY+NAME+IS+DOLA+YEDIDYA++%7C%7C+I+AM+A+FULL+STACK+WEB+DEVELOPER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&random=false&width=1200&lines=MY+NAME+IS+DOLA+YEDIDYA++%7C%7C+I+AM+A+FULL+STACK+WEB+DEVELOPER" alt="Typing SVG" /></a>
